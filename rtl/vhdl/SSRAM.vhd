@@ -1,7 +1,7 @@
 --
--- Inferrable Synchronous SRAM
+-- Inferrable Synchronous SRAM for XST synthesis
 --
--- Version : 0218
+-- Version : 0220
 --
 -- Copyright (c) 2002 Daniel Wallner (jesus@opencores.org)
 --
